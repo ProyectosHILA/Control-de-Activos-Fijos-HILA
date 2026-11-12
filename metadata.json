@@ -1,0 +1,6 @@
+{
+  "name": "HILA - Inventario y Análisis de Activos",
+  "description": "Sistema de inventario de activos fijos hospitalarios con importación CSV/Excel y gráficos interactivos en tiempo real.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
